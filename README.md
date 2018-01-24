@@ -1,2 +1,3 @@
 # ml_k-means
-kmeans算法
+### purpose
+机器学习十大算法-k-means
